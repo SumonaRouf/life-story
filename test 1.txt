@@ -2,6 +2,6 @@ my name is maya.
 i love my country.i
 i have complete my ssc
 i have completed my BSc in 2009
-
+logo alignment is centered
 
 
